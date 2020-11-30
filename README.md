@@ -1,7 +1,7 @@
 # CXF Docker
 
 ```
-git clone https://
+git clone https://github.com/ilaipi/CXF-Docker.git
 
 cd CXF-Docker
 docker build -t cxf:3.4.1 .
